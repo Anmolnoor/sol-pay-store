@@ -1,20 +1,20 @@
 [
-	{
-		"id": 1,
-		"name": "OG NFT pack",
-		"price": "0.09",
-		"description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-		"image_url": "https://raw.githubusercontent.com/Anmolnoor/sol-pay-store/main/assets/anmol.jpg",
-		"filename": "anmol.zip",
-		"hash": "QmSgkmRz4kfH9Hi1zdjfzMGqKYSwRLE8VS4XwpPwaEY8CE"
-	},
-	{
-		"id": 2,
-		"name": "Logo",
-		"price": "0.01",
-		"image_url": "https://raw.githubusercontent.com/Anmolnoor/sol-pay-store/main/assets/a%20(2).png",
-		"description": "this is a test logo",
-		"filename": "a (2).png",
-		"hash": "QmVBKLieQ1rf8QSZJJc5SCVMBAFYgAnvD6CdpaTiGdd2Vv"
-	}
+  {
+    "id": 1,
+    "name": "OG NFT pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://raw.githubusercontent.com/Anmolnoor/sol-pay-store/main/assets/anmol.jpg",
+    "filename": "anmol.png",
+    "hash": "QmSgkmRz4kfH9Hi1zdjfzMGqKYSwRLE8VS4XwpPwaEY8CE"
+  },
+  {
+    "id": 2,
+    "name": "Logo",
+    "price": "0.01",
+    "image_url": "https://raw.githubusercontent.com/Anmolnoor/sol-pay-store/main/assets/a%20(2).png",
+    "description": "this is a test logo",
+    "filename": "a (2).png",
+    "hash": "QmVBKLieQ1rf8QSZJJc5SCVMBAFYgAnvD6CdpaTiGdd2Vv"
+  }
 ]
